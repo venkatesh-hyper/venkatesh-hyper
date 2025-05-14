@@ -22,35 +22,36 @@ From building predictive models and interactive dashboards to architecting full-
 
 ## 🚀 Featured Projects
 
+### 🌐 [Well-AI: Personalized Health Recommender App](https://github.com/venkatesh-hyper/Well-AI)
+Well-AI is a comprehensive, **AI-powered** web application designed to provide **personalized health predictions** and wellness recommendations. Leveraging machine learning models and scalable web technologies, the app enables users to self-assess depression, predict diseases based on symptoms, and receive actionable lifestyle suggestions — all in a secure, user-friendly environment.
+
+### 🧬 [Genetic Variation Analysis – Multiple Sclerosis (RUSA PROJECT) ](https://github.com/venkatesh-hyper/multiple-sclerosis)
+Built a **real-time interactive dashboard** to assess MS risk using SNP data—blending bioinformatics with predictive analytics.
+
 ### 🧠 [Brain Tumor Classification](https://github.com/venkatesh-hyper/Brain-Tumour-classification)
 Achieved **95% accuracy** in classifying brain tumor MRI images using an **ensemble model** combining SVM, RF, XGBoost, CNN, and transfer learning.
 
 ### 📝 [Text Generation with LSTM](https://github.com/venkatesh-hyper/textgen_LSTM)
 Built an LSTM-based NLP model that generates **coherent and context-aware sequences**, demonstrating strong temporal understanding in language.
 
-### 🧬 [Genetic Variation Analysis – Multiple Sclerosis](https://github.com/venkatesh-hyper/multiple-sclerosis)
-Built a **real-time interactive dashboard** to assess MS risk using SNP data—blending bioinformatics with predictive analytics.
-
-### 🏥 [Symptom-Based Disease Prediction](https://github.com/venkatesh-hyper/multiple_disease_pred_svm_rf)
-Developed a disease prediction system that takes symptoms as input and returns likely diagnoses using **SVM and Random Forest models**.
-
-### 🌐 [Well-AI: Personalized Health Recommender App](https://github.com/venkatesh-hyper/Well-AI)
-💡*Your health. Your data. Your dashboard.*
-
-A full-stack health recommendation web app that:
-- Uses **React.js** for frontend and **FastAPI** for backend
-- Hosts a **clean, modular dashboard** for mental health, general wellness, and symptom-based analysis
-- Runs an **end-to-end ML pipeline** (data collection, preprocessing, model serving)
-- Computes **real-time recommendations** using user inputs and stored historical data
-- Visualizes health trends using **Plotly**, **Matplotlib**, and **interactive charts**
-
-🛠️ Stack: React · FastAPI · Python · TensorFlow · Docker · Streamlit · MongoDB
+### 🏥 [DEPRESSION Prediction (mental_analysis)](https://depressanalysis.streamlit.app/)
+This project is a Depression Prediction App built using Streamlit, Pandas, NumPy, Scikit-learn, and a pre-trained machine learning model. The app allows users to predict the likelihood of depression based on various input parameters, such as gender, age, sleep duration, family history, and mental health history. The prediction is powered by an ensemble machine learning model trained on a dataset of mental health indicators.
 
 ---
 
+A full-stack health recommendation web app that:
+- Runs an **end-to-end ML pipeline** (data collection, preprocessing, model serving)
+- Computes **real-time recommendations** using user inputs and stored historical data
+- Hosts a **clean, modular dashboard** for mental health, general wellness, and symptom-based analysis
+- Visualizes health trends using **Plotly**, **Matplotlib**, and **interactive charts**
+- Uses **React.js** for frontend and **FastAPI** for backend
+
+- ---
+
+🛠️ Stack: Tensorflow · pytorch · FastAPI · Python · TensorFlow · Docker · Streamlit · MongoDB
+
 ## 🛠 Tech Stack
 
-```python
 Languages       = ["Python", "C++", "Java"]
 Libraries_ML    = ["TensorFlow", "PyTorch", "Scikit-Learn"]
 Data_Stack      = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"]
@@ -76,8 +77,6 @@ Soft_Skills     = ["Leadership", "Problem-Solving", "Collaboration", "Communicat
 - 🔬 Biotech undergrad → AI/ML grad — your bio-data scientist hybrid
 - 🚴‍♂️ I can cycle for hours and still talk tech
 - 💼 Currently looking for full time job, internships, freelance gigs, and ML collabs.
-
----
 
 Let me know if you want to:
 - Embed animated GIFs or custom widgets (like real-time visitor count)
