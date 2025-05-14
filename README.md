@@ -68,11 +68,11 @@ I'm a results-driven **Data Scientist** in the making with a strong grip on mach
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" width="45%" />
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-hyper&theme=tokyonight" width="60%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-hyper&theme=tokyonight" width="45%" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-hyper&layout=compact&theme=tokyonight" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-hyper&layout=compact&theme=tokyonight" width="45%" />
     
 
 </p>
