@@ -8,6 +8,7 @@
     <a href="https://github.com/venkatesh-hyper"><img src="https://img.shields.io/github/followers/venkatesh-hyper?label=Follow&style=social"></a>
     <a href="https://www.linkedin.com/in/venkatesh-ml/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat"></a>
     <a href="mailto:venkateshpvnky9@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat"></a>
+    <a href ="https://www.datascienceportfol.io/venkateshml"><img src="https://img.shields.io/badge/protfolio?logo=linkedin&style=flat"></a>
 </p>
 
 ---
