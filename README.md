@@ -70,7 +70,8 @@ I'm a results-driven **Data Scientist** in the making with a strong grip on mach
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" width="47%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-hyper&theme=tokyonight" width="47%" />
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-hyper&layout=compact&theme=tokyonight)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-hyper&layout=compact&theme=tokyonight" width 47% />
+    
 
 </p>
 
