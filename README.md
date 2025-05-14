@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Venkatesh P</h1>
 
-<!--
-**venkatesh-hyper/venkatesh-hyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;HealthTech+Innovator+%7C+Biotech+Nerd;Pythonic+Problem+Solver+%7C+AI+Ethics+Geek" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/venkatesh-hyper"><img src="https://img.shields.io/github/followers/venkatesh-hyper?label=Follow&style=social"></a>
+  <a href="https://linkedin.com/in/venkatesh-hyper"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat"></a>
+  <a href="mailto:venkateshpvnky9@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm Venkatesh P, a **Data Scientist** in the making with a strong grasp of statistics, machine learning, and real-world data applications. Currently pursuing my **Master of Computer Applications** at the **University of Madras**, I thrive at the intersection of **healthcare, AI, and product thinking**.
+
+From building predictive models and interactive dashboards to architecting full-stack ML apps, I enjoy making data work *for* people.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Brain Tumor Classification](https://github.com/venkatesh-hyper/Brain-Tumour-classification)
+Achieved **95% accuracy** in classifying brain tumor MRI images using an **ensemble model** combining SVM, RF, XGBoost, CNN, and transfer learning.
+
+### 📝 [Text Generation with LSTM](https://github.com/venkatesh-hyper/textgen_LSTM)
+Built an LSTM-based NLP model that generates **coherent and context-aware sequences**, demonstrating strong temporal understanding in language.
+
+### 🧬 [Genetic Variation Analysis – Multiple Sclerosis](https://github.com/venkatesh-hyper/multiple-sclerosis)
+Built a **real-time interactive dashboard** to assess MS risk using SNP data—blending bioinformatics with predictive analytics.
+
+### 🏥 [Symptom-Based Disease Prediction](https://github.com/venkatesh-hyper/multiple_disease_pred_svm_rf)
+Developed a disease prediction system that takes symptoms as input and returns likely diagnoses using **SVM and Random Forest models**.
+
+### 🌐 [Well-AI: Personalized Health Recommender App](https://github.com/venkatesh-hyper/Well-AI)
+💡*Your health. Your data. Your dashboard.*
+
+A full-stack health recommendation web app that:
+- Uses **React.js** for frontend and **FastAPI** for backend
+- Hosts a **clean, modular dashboard** for mental health, general wellness, and symptom-based analysis
+- Runs an **end-to-end ML pipeline** (data collection, preprocessing, model serving)
+- Computes **real-time recommendations** using user inputs and stored historical data
+- Visualizes health trends using **Plotly**, **Matplotlib**, and **interactive charts**
+
+🛠️ Stack: React · FastAPI · Python · TensorFlow · Docker · Streamlit · MongoDB
+
+---
+
+## 🛠 Tech Stack
+
+```python
+Languages       = ["Python", "C++", "Java"]
+Libraries_ML    = ["TensorFlow", "PyTorch", "Scikit-Learn"]
+Data_Stack      = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"]
+DevOps_Tools    = ["Docker", "Kubernetes", "Jupyter", "Google Colab", "AWS"]
+Soft_Skills     = ["Leadership", "Problem-Solving", "Collaboration", "Communication"]
+
+## 📜 Certifications
+- 🧠 AWS Certified Data Engineer – Associate
+- 🤖 Machine Learning A-Z™: Python & R
+- 🌐 2024 Complete Web Development Bootcamp
+
+## 🎯 Goals
+- Land a Data Scientist role in FAANG
+- Build AI tools that enhance public healthcare and wellness
+- Work abroad in Dubai or Europe by age 25
+- Become a founder in the health-tech space
+
+## 📈 GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-hyper&theme=tokyonight" width="47%" /> </p>
+
+## 🧠 Fun Facts
+- 🧑‍🏫 Mentor for Class 11 & 12 students (Physics & Chem wizard 🧪)
+- 🔬 Biotech undergrad → AI/ML grad — your bio-data scientist hybrid
+- 🚴‍♂️ I can cycle for hours and still talk tech
+- 💼 Currently looking for full time job, internships, freelance gigs, and ML collabs.
+
+---
+
+Let me know if you want to:
+- Embed animated GIFs or custom widgets (like real-time visitor count)
+- Auto-deploy your Well-AI app as a live link in the profile
+- Add a Projects Showcase with thumbnails using HTML
+
+Ready when you are 👨‍💻✨
