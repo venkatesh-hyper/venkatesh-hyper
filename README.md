@@ -5,10 +5,18 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/venkatesh-hyper"><img src="https://img.shields.io/github/followers/venkatesh-hyper?label=Follow&style=social"></a>
-    <a href="https://www.linkedin.com/in/venkatesh-ml/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat"></a>
-    <a href="mailto:venkateshpvnky9@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat"></a>
-    <a href ="https://www.datascienceportfol.io/venkateshml"><img src="https://img.shields.io/badge/protfolio?logo=linkedin&style=flat"></a>
+  <a href="https://www.datascienceportfol.io/venkateshml" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAYAAADebrddAAAAU0lEQVR42mP4//8/AybAxMTE6AIfBysD8YEgDRwMo/I+RnwpiKiIiYpAzsMgo0iIRERExcRJyAhzUkCFRAC1XUByjExQXMk9JVGKo0AsBBt8WkgDKKmIygBTgLDoAwDrxxHHSTNnGAAAAABJRU5ErkJggg==" alt="portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/venkatesh-ml" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/venkatesh-hyper" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:venkateshpvnky9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
