@@ -1,8 +1,9 @@
 <h1 align="center">🚀 Venkatesh P | Data Scientist · ML Engineer · HealthTech Innovator</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Biotech+to+AI+🚀;Data+Scientist+%7C+ML+Engineer+%7C+HealthTech+Visionary;Building+AI+for+Better+Health+Outcomes;Python+Enthusiast+%7C+Ethical+AI+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;HealthTech+Innovator+%7C+Biotech+Enthusiast;Pythonic+Problem+Solver+%7C+AI+Ethics+Advocate" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.datascienceportfol.io/venkateshml" target="_blank">
