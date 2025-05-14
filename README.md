@@ -1,14 +1,7 @@
 <h1 align="center">Hey 👋, I'm Venkatesh P</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;HealthTech+Innovator+%7C+Biotech+Nerd;Pythonic+Problem+Solver+%7C+AI+Ethics+Geek" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;HealthTech+Innovator+%7C+Biotech+Nerd;Pythonic+Problem+Solver+%7C+AI+Ethics+Geek" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/venkatesh-hyper"><img src="https://img.shields.io/github/followers/venkatesh-hyper?label=Follow&style=social"></a> <a href="https://linkedin.com/in/venkatesh-hyper"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat"></a> <a href="mailto:venkateshpvnky9@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat"></a> </p>
 
-<p align="center">
-  <a href="https://github.com/venkatesh-hyper"><img src="https://img.shields.io/github/followers/venkatesh-hyper?label=Follow&style=social"></a>
-  <a href="https://linkedin.com/in/venkatesh-hyper"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat"></a>
-  <a href="mailto:venkateshpvnky9@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat"></a>
-</p>
 
 ---
 
@@ -51,17 +44,7 @@ This project is a Depression Prediction App built using Streamlit, Pandas, NumPy
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> </p>
 
 ## 🛠 Tech Stack
 
