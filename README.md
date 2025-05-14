@@ -3,6 +3,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;HealthTech+Innovator+%7C+Biotech+Enthusiast;Pythonic+Problem+Solver+%7C+AI+Ethics+Advocate" alt="Typing SVG" />
 </p>
+
 <p align="center">
     <a href="https://github.com/venkatesh-hyper"><img src="https://img.shields.io/github/followers/venkatesh-hyper?label=Follow&style=social"></a>
     <a href="https://linkedin.com/in/venkatesh-hyper"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat"></a>
@@ -13,127 +14,121 @@
 
 ## 👨‍💻 About Me
 
-A results-driven Data Scientist in the making, leveraging a strong foundation in statistical analysis, machine learning algorithms, and practical data application to solve real-world challenges. Currently pursuing a Master of Computer Applications at the University of Madras, I am deeply passionate about the transformative potential of AI within the healthcare sector and possess a keen interest in user-centric product development. My focus lies in transforming complex data into actionable insights that drive innovation and improve lives.
+I'm a results-driven **Data Scientist** in the making with a strong grip on machine learning, AI, and real-world health tech applications. Currently pursuing my MCA at **University of Madras**, I bring a unique blend of **biotech background** and **data-driven mindset**, aiming to transform raw health data into powerful insights.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 [Well-AI: AI-Powered Personalized Health Navigator](https://github.com/venkatesh-hyper/Well-AI)
+### 🌐 [Well-AI: Personalized Health Navigator](https://github.com/venkatesh-hyper/Well-AI)
+<p align="center"><img src="https://github.com/venkatesh-hyper/Well.AI/blob/main/well-ai.jpg?raw=true" width="400" /></p>
 
-<p align="center">
-    <img src="https://github.com/venkatesh-hyper/Well.AI/blob/main/well-ai.jpg?raw=true" alt="Well-AI Demo" width="400" />
-</p>
-
-A comprehensive **AI-powered** web application designed to deliver **personalized health risk assessments** (including depression likelihood and symptom-based disease predisposition) and **evidence-based wellness recommendations**. Well-AI integrates sophisticated machine learning models with scalable web technologies, empowering users with proactive health management tools in a secure and intuitive environment.
-
-### 🧬 [Genetic Variation Analysis for Multiple Sclerosis Risk Assessment](https://github.com/venkatesh-hyper/multiple-sclerosis)
-
-<p align="center">
-    <img src="https://github.com/venkatesh-hyper/RUSA_Multiple-Sclerosis/blob/main/image/proto.png?raw=true" alt="MS Analysis Dashboard" width="400" />
-</p>
-
-Developed a **real-time interactive dashboard** to analyze SNP (Single Nucleotide Polymorphism) genetic data for Multiple Sclerosis (MS) risk prediction. This Machine Learning-powered Streamlit web application enables users to upload their datasets, visualize risk insights through interactive charts, and download predictions accompanied by polygenic scores and odds ratios.
-
-### 🧠 [High-Accuracy Brain Tumor Classification using Ensemble Learning](https://github.com/venkatesh-hyper/Brain-Tumour-classification)
-
-<p align="center">
-    <img src="https://github.com/venkatesh-hyper/Brain-Tumour-classification/blob/main/readme_imgs/image.png?raw=true" alt="Brain Tumor Classification" width="400" />
-</p>
-
-Engineered a high-performance **ensemble model** (combining SVM, Random Forest, XGBoost, Convolutional Neural Networks, and Transfer Learning) that achieved **95% accuracy** in classifying brain tumor MRI images, showcasing advanced capabilities in medical image analysis.
-
-### 📝 [Context-Aware Text Generation with LSTM Networks](https://github.com/venkatesh-hyper/textgen_LSTM)
-
-<p align="center">
-    <img src="https://github.com/venkatesh-hyper/textgen_LSTM/blob/main/lstm_text.jpg?raw=true" alt="LSTM Text Generation" width="400" />
-</p>
-
-Built an LSTM-based Natural Language Processing (NLP) model capable of generating **coherent and contextually relevant text sequences**, demonstrating a strong understanding of temporal dependencies in language. This project explores the application of deep learning for creative content generation and automated text synthesis.
-
-### 🏥 [DEPRESSION Risk Prediction Web Application](https://depressanalysis.streamlit.app/)
-
-<p align="center">
-    <img src="https://github.com/venkatesh-hyper/Depression_analyser/blob/main/data/phase.png?raw=true" alt="Depression Prediction App" width="400" /> 
-</p>
-
-A user-friendly web application built with Streamlit, leveraging Pandas, NumPy, Scikit-learn, and a pre-trained ensemble machine learning model to predict the likelihood of depression based on user-provided inputs such as demographics, lifestyle factors, and mental health history.
+AI-powered web app that offers personalized health risk assessments (mental health, symptoms, wellness tips). Built with FastAPI + React, integrating ML models for scalable and secure deployment.
 
 ---
 
-## 💡 Vision: Full-Stack Health Intelligence Platform
+### 🧬 [Multiple Sclerosis Genetic Risk Analysis](https://github.com/venkatesh-hyper/multiple-sclerosis)
+<p align="center"><img src="https://github.com/venkatesh-hyper/RUSA_Multiple-Sclerosis/blob/main/image/proto.png?raw=true" width="400" /></p>
 
-Aspiring to build a comprehensive health intelligence web application that:
+Interactive Streamlit dashboard to analyze SNP data for MS risk. Upload data, visualize predictions, and calculate polygenic scores in real-time.
 
-* Orchestrates an **end-to-end ML pipeline** for seamless data flow from collection to model deployment.
-* Provides **real-time, personalized health recommendations** based on user data and intelligent algorithms.
-* Features a **modular and intuitive dashboard** for mental wellness tracking, general health insights, and symptom-based analysis.
-* Visualizes health trends and predictions through interactive charts powered by **Plotly** and **Matplotlib**.
-* Employs a robust and scalable architecture using **React.js** for the frontend and **FastAPI** for the backend.
+---
+
+### 🧠 [Brain Tumor Classification (95% Accuracy)](https://github.com/venkatesh-hyper/Brain-Tumour-classification)
+<p align="center"><img src="https://github.com/venkatesh-hyper/Brain-Tumour-classification/blob/main/readme_imgs/image.png?raw=true" width="400" /></p>
+
+Built a robust ensemble of CNNs, XGBoost, RF, and SVM for classifying brain MRI scans. Achieved 95% accuracy—optimized for medical image analysis.
+
+---
+
+### 📝 [LSTM-Based Text Generator](https://github.com/venkatesh-hyper/textgen_LSTM)
+<p align="center"><img src="https://github.com/venkatesh-hyper/textgen_LSTM/blob/main/lstm_text.jpg?raw=true" width="400" /></p>
+
+Built a sequence-to-sequence LSTM model capable of generating contextually accurate and creative text content. Explores deep learning in NLP tasks.
+
+---
+
+### 🏥 [Depression Risk Prediction App](https://depressanalysis.streamlit.app/)
+<p align="center"><img src="https://github.com/venkatesh-hyper/Depression_analyser/blob/main/data/phase.png?raw=true" width="400" /></p>
+
+Streamlit-powered app that predicts depression likelihood using ensemble ML models and demographic/lifestyle inputs. Real-time feedback + visual analytics.
+
+---
+
+## 💡 Vision: Building Full-Stack Health Intelligence
+
+I’m on a mission to build a **modular AI-powered health platform** that:
+- Runs **end-to-end ML pipelines** for real-time personalized health feedback.
+- Features dashboards for mental health, symptoms, and general well-being.
+- Offers intelligent recommendations using **FastAPI** + **React**.
+- Leverages **Plotly**, **Matplotlib** for insightful, dynamic visualizations.
+- Ensures scalability, security, and usability from Day 1.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-Learn" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" alt="Seaborn" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" alt="Plotly" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
 </p>
 
--   **Languages:** `Python`, `C++`, `Java`
--   **Machine Learning Libraries:** `TensorFlow`, `PyTorch`, `Scikit-Learn`
--   **Data Analysis & Visualization:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`
--   **Backend & Web Development:** `FastAPI`, `React.js`
--   **DevOps & Cloud:** `Docker`, `Kubernetes`, `AWS`, `Jupyter`, `Google Colab`
--   **Databases:** `MongoDB`,`MySQL`
--   **Soft Skills:** `Leadership`, `Problem-Solving`, `Collaboration`, `Communication`
+**Languages:** Python, C++, Java  
+**ML Libraries:** TensorFlow, PyTorch, Scikit-Learn  
+**Visualization:** Plotly, Matplotlib, Seaborn  
+**Web & Backend:** React.js, FastAPI  
+**Cloud & DevOps:** AWS, Docker, Kubernetes  
+**Data Tools:** Pandas, NumPy, MongoDB, MySQL  
+**Soft Skills:** Leadership, Collaboration, Problem-Solving
 
 ---
 
 ## 📜 Certifications
 
-* AWS Certified Data Engineer – Associate
-* Machine Learning A-Z™: Python & R
-* 2024 Complete Web Development Bootcamp
+- AWS Certified Data Engineer – Associate  
+- Machine Learning A-Z™ (Python & R)  
+- 2024 Web Development Bootcamp (Full Stack)
 
 ---
 
 ## 🎯 Goals
 
-* Secure a Data Scientist role at a leading technology company (FAANG or similar).
-* Develop impactful AI-powered tools that improve public health and individual wellness.
-* Gain international work experience in Dubai or Europe by the age of 25.
-* Establish a successful startup in the health-tech industry.
+- Land a Data Scientist role at a top tech firm (FAANG or equivalent)  
+- Build AI tools that empower personal and public health  
+- Work abroad (Dubai/Europe) before 25  
+- Launch my own HealthTech startup 🚀
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" width="47%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-hyper&theme=tokyonight" width="47%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" width="47%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-hyper&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
-## 🧠 Fun Facts
+## 💬 Fun Facts
 
-* Mentoring Class 11 & 12 students in Physics & Chemistry, helping them conquer the scientific realm 🧪.
-* A unique blend of Biotech undergrad and AI/ML grad – bridging the gap between biology and data intelligence 🧬➡️🤖.
-* An avid cyclist who can pedal for hours while discussing the intricacies of technology 🚴‍♂️💻.
-* Actively seeking full-time opportunities, internships, freelance projects, and collaborative ventures in the field of Machine Learning 💼.
+- I mentor Class 11 & 12 students in Physics and Chemistry 🧪  
+- Biotech undergrad turned AI innovator 🧬➡️🤖  
+- Love cycling while thinking about tech 🚴‍♂️💡  
+- Open to internships, full-time roles, freelance gigs & collaborations!
 
-Ready to connect and build the future of AI together! 👨‍💻✨
+---
+
+**Let’s connect and shape the future of AI together!**
