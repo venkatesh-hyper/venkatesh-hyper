@@ -22,7 +22,7 @@ A results-driven Data Scientist in the making, leveraging a strong foundation in
 ### 🌐 [Well-AI: AI-Powered Personalized Health Navigator](https://github.com/venkatesh-hyper/Well-AI)
 
 <p align="center">
-    <img src="https://github.com/your-username/your-repo-name/blob/main/docs/well-ai-demo.png?raw=true" alt="Well-AI Demo" width="400" />
+    <img src="https://github.com/venkatesh-hyper/Well.AI/blob/main/well-ai.jpg?raw=true" alt="Well-AI Demo" width="400" />
 </p>
 
 A comprehensive **AI-powered** web application designed to deliver **personalized health risk assessments** (including depression likelihood and symptom-based disease predisposition) and **evidence-based wellness recommendations**. Well-AI integrates sophisticated machine learning models with scalable web technologies, empowering users with proactive health management tools in a secure and intuitive environment.
@@ -46,7 +46,7 @@ Engineered a high-performance **ensemble model** (combining SVM, Random Forest, 
 ### 📝 [Context-Aware Text Generation with LSTM Networks](https://github.com/venkatesh-hyper/textgen_LSTM)
 
 <p align="center">
-    <img src="https://github.com/your-username/your-repo-name/blob/main/docs/lstm-text-generation.png?raw=true" alt="LSTM Text Generation" width="400" />
+    <img src="https://github.com/venkatesh-hyper/textgen_LSTM/blob/main/lstm_text.jpg?raw=true" alt="LSTM Text Generation" width="400" />
 </p>
 
 Built an LSTM-based Natural Language Processing (NLP) model capable of generating **coherent and contextually relevant text sequences**, demonstrating a strong understanding of temporal dependencies in language. This project explores the application of deep learning for creative content generation and automated text synthesis.
