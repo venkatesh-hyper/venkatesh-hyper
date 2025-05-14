@@ -26,13 +26,13 @@ From building predictive models and interactive dashboards to architecting full-
 Well-AI is a comprehensive, **AI-powered** web application designed to provide **personalized health predictions** and wellness recommendations. Leveraging machine learning models and scalable web technologies, the app enables users to self-assess depression, predict diseases based on symptoms, and receive actionable lifestyle suggestions — all in a secure, user-friendly environment.
 
 ### 🧬 [Genetic Variation Analysis – Multiple Sclerosis (RUSA PROJECT) ](https://github.com/venkatesh-hyper/multiple-sclerosis)
-Built a **real-time interactive dashboard** to assess MS risk using SNP data—blending bioinformatics with predictive analytics.
+Built a **real-time interactive dashboard** to assess MS risk using SNP data—blending bioinformatics with predictive analytics. A Machine Learning-powered Streamlit web app that predicts the likelihood of Multiple Sclerosis (MS) from SNP (Single Nucleotide Polymorphism) genetic data. Upload your dataset, view risk insights, and download predictions with polygenic scores and odds ratios.
 
 ### 🧠 [Brain Tumor Classification](https://github.com/venkatesh-hyper/Brain-Tumour-classification)
 Achieved **95% accuracy** in classifying brain tumor MRI images using an **ensemble model** combining SVM, RF, XGBoost, CNN, and transfer learning.
 
 ### 📝 [Text Generation with LSTM](https://github.com/venkatesh-hyper/textgen_LSTM)
-Built an LSTM-based NLP model that generates **coherent and context-aware sequences**, demonstrating strong temporal understanding in language.
+Built an LSTM-based NLP model that generates **coherent and context-aware sequences**, demonstrating strong temporal understanding in language, The objective of this project is to develop a machine learning model for text generation using Long Short- Term Memory (LSTM) networks. Text generation is a crucial application in fields such as natural language processing (NLP), content creation, and automated storytelling. The goal is to create a model that can generate coherent, contextually relevant text based on a given input, mimicking the style and patterns of the training text data.
 
 ### 🏥 [DEPRESSION Prediction (mental_analysis)](https://depressanalysis.streamlit.app/)
 This project is a Depression Prediction App built using Streamlit, Pandas, NumPy, Scikit-learn, and a pre-trained machine learning model. The app allows users to predict the likelihood of depression based on various input parameters, such as gender, age, sleep duration, family history, and mental health history. The prediction is powered by an ensemble machine learning model trained on a dataset of mental health indicators.
