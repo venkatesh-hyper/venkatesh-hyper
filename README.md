@@ -30,7 +30,7 @@ A comprehensive **AI-powered** web application designed to deliver **personalize
 ### 🧬 [Genetic Variation Analysis for Multiple Sclerosis Risk Assessment](https://github.com/venkatesh-hyper/multiple-sclerosis)
 
 <p align="center">
-    <img src="https://github.com/your-username/your-repo-name/blob/main/docs/ms-analysis-dashboard.png?raw=true" alt="MS Analysis Dashboard" width="400" />
+    <img src="https://github.com/venkatesh-hyper/RUSA_Multiple-Sclerosis/blob/main/image/proto.png?raw=true" alt="MS Analysis Dashboard" width="400" />
 </p>
 
 Developed a **real-time interactive dashboard** to analyze SNP (Single Nucleotide Polymorphism) genetic data for Multiple Sclerosis (MS) risk prediction. This Machine Learning-powered Streamlit web application enables users to upload their datasets, visualize risk insights through interactive charts, and download predictions accompanied by polygenic scores and odds ratios.
@@ -38,7 +38,7 @@ Developed a **real-time interactive dashboard** to analyze SNP (Single Nucleotid
 ### 🧠 [High-Accuracy Brain Tumor Classification using Ensemble Learning](https://github.com/venkatesh-hyper/Brain-Tumour-classification)
 
 <p align="center">
-    <img src="https://github.com/your-username/your-repo-name/blob/main/docs/brain-tumor-classification.png?raw=true" alt="Brain Tumor Classification" width="400" />
+    <img src="https://github.com/venkatesh-hyper/Brain-Tumour-classification/blob/main/readme_imgs/image.png?raw=true" alt="Brain Tumor Classification" width="400" />
 </p>
 
 Engineered a high-performance **ensemble model** (combining SVM, Random Forest, XGBoost, Convolutional Neural Networks, and Transfer Learning) that achieved **95% accuracy** in classifying brain tumor MRI images, showcasing advanced capabilities in medical image analysis.
@@ -54,7 +54,7 @@ Built an LSTM-based Natural Language Processing (NLP) model capable of generatin
 ### 🏥 [DEPRESSION Risk Prediction Web Application](https://depressanalysis.streamlit.app/)
 
 <p align="center">
-    <img src="https://github.com/your-username/your-repo-name/blob/main/docs/depression-prediction-app.png?raw=true" alt="Depression Prediction App" width="400" />
+    <img src="https://github.com/venkatesh-hyper/Depression_analyser/blob/main/data/phase.png?raw=true" alt="Depression Prediction App" width="400" /> 
 </p>
 
 A user-friendly web application built with Streamlit, leveraging Pandas, NumPy, Scikit-learn, and a pre-trained ensemble machine learning model to predict the likelihood of depression based on user-provided inputs such as demographics, lifestyle factors, and mental health history.
