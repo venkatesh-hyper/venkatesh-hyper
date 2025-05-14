@@ -39,7 +39,8 @@ This project is a Depression Prediction App built using Streamlit, Pandas, NumPy
 
 ---
 
-A full-stack health recommendation web app that:
+## A full-stack health recommendation web app that:
+
 - Runs an **end-to-end ML pipeline** (data collection, preprocessing, model serving)
 - Computes **real-time recommendations** using user inputs and stored historical data
 - Hosts a **clean, modular dashboard** for mental health, general wellness, and symptom-based analysis
