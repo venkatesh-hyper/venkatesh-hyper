@@ -53,11 +53,11 @@ This project is a Depression Prediction App built using Streamlit, Pandas, NumPy
 
 ## 🛠 Tech Stack
 
-Languages       = ["Python", "C++", "Java"]
-Libraries_ML    = ["TensorFlow", "PyTorch", "Scikit-Learn"]
-Data_Stack      = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"]
-DevOps_Tools    = ["Docker", "Kubernetes", "Jupyter", "Google Colab", "AWS"]
-Soft_Skills     = ["Leadership", "Problem-Solving", "Collaboration", "Communication"]
+- Languages       = ["Python", "C++", "Java"]
+- Libraries_ML    = ["TensorFlow", "PyTorch", "Scikit-Learn"]
+- Data_Stack      = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"]
+- DevOps_Tools    = ["Docker", "Kubernetes", "Jupyter", "Google Colab", "AWS"]
+- Soft_Skills     = ["Leadership", "Problem-Solving", "Collaboration", "Communication"]
 
 ## 📜 Certifications
 - 🧠 AWS Certified Data Engineer – Associate
