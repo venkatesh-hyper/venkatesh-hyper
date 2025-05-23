@@ -23,18 +23,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 > *"Where biology meets code."*
 
 I'm Venkatesh — a Biotech graduate turned Machine Learning Engineer with a passion for transforming healthcare through AI. I specialize in **AI-driven health prediction models**, **data pipelines**, and **full-stack ML apps**. My projects blend **data science**, **backend APIs**, and **interactive dashboards** — always with real-world users in mind.
 
 🎓 MCA @ **University of Madras**  
-🧠 ML minds meet Data Artist 
+ ML minds meet Data Artist 
 
 ---
 
-### 💼 Tech Snapshot
+### Tech Snapshot
 
 | Skillset        | Tools & Frameworks |
 |-----------------|--------------------|
@@ -49,17 +49,17 @@ I'm Venkatesh — a Biotech graduate turned Machine Learning Engineer with a pas
 
 ---
 
-### 🧠 Projects That Matter
+### Projects That Matter
 
-#### 🧬 [Well-AI Health Dashboard](https://github.com/venkatesh-hyper/well-ai)
+#### [Well-AI Health Dashboard](https://github.com/venkatesh-hyper/well-ai)
 AI-based personal health recommender with mental health analysis & symptom predictor  
 **Stack:** FastAPI, React, TensorFlow, MongoDB, Docker
 
-#### 🧠 Brain Tumor Classifier
+#### Brain Tumor Classifier
 95% accurate deep learning classifier with Streamlit-based visualization  
 **Stack:** CNNs, TensorFlow, OpenCV
 
-#### 🧬 GWAS Trait Predictor for Multiple Sclerosis
+#### GWAS Trait Predictor for Multiple Sclerosis
 Custom-built Polygenic Risk Score calculator & dashboard  
 **Stack:** Pandas, Scikit-Learn, Bioinformatics tools
 
@@ -67,23 +67,23 @@ Custom-built Polygenic Risk Score calculator & dashboard
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- ✅ AWS Certified Data Engineer – Associate  
-- ✅ Machine Learning A-Z™ (Udemy)  
-- ✅ 2024 Full-Stack Web Dev Bootcamp
-
----
-
-### 🎯 Career Goals
-
-- ✅ Secure a Data Scientist or ML Engineer role (HealthTech or Core ML)  
-- 🌍 Relocate abroad (UAE/Europe) for career growth  
-- 🚀 Launch a Health AI startup by age 26  
+-  AWS Certified Data Engineer – Associate  
+-  Machine Learning A-Z™ (Udemy)
+-  2024 Full-Stack Web Dev Bootcamp
 
 ---
 
-### 📈 GitHub Highlights
+###  Career Goals
+
+-  Secure a Data Scientist or ML Engineer role (HealthTech or Core ML)  
+-  Relocate abroad (UAE/Europe) for career growth  
+-  Launch a Health AI startup by age 26  
+
+---
+
+### GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" width="48%" />
@@ -94,16 +94,16 @@ Custom-built Polygenic Risk Score calculator & dashboard
 
 ---
 
-### 🔍 Quick Facts
+### Quick Facts
 
-- 🧪 I teach Physics & Chemistry to Class 11/12 students  
-- 🔁 I pivoted from biotech to AI with zero regrets  
-- 🚴 I brainstorm ML ideas while cycling  
-- 💬 Open to internships, full-time roles, or freelance gigs!
+-  I teach Physics & Chemistry to Class 11/12 students  
+-  I pivoted from biotech to AI with zero regrets  
+-  I brainstorm ML ideas while cycling  
+-  Open to internships, full-time roles, or freelance gigs!
 
 ---
 
-> 📬 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/venkatesh-ml) | [Email Me](mailto:venkateshpvnky9@gmail.com)
+>  **Let’s Connect:** [LinkedIn](https://linkedin.com/in/venkatesh-ml) | [Email Me](mailto:venkateshpvnky9@gmail.com)
 
 ---
 
