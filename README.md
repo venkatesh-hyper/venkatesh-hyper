@@ -37,84 +37,63 @@ I enjoy building **end-to-end intelligent systems that go from research to produ
 
 ---
 
-# Core Skills
+## Core Skills
 
-### Programming
+**Programming**
 Python • SQL • JavaScript • C++
 
-### Machine Learning
-TensorFlow • PyTorch • Scikit-Learn • HuggingFace Transformers
-
-### Generative AI
+**Machine Learning & AI**
+TensorFlow • PyTorch • Scikit-Learn • Hugging Face Transformers
 LangChain • RAG Pipelines • Embeddings • Vector Databases
 
-### Data Engineering
+**Data & Analytics**
 Pandas • NumPy • Polars • PySpark
-
-### Visualization
 Matplotlib • Seaborn • Plotly • Power BI • Tableau
 
-### Backend & APIs
+**Backend & ML Deployment**
 FastAPI • Flask • Streamlit
-
-### MLOps
 Docker • Kubernetes • MLflow • DVC • Git
 
-### Cloud
-GCP • AWS • Azure (basics)
+**Cloud Platforms**
+Google Cloud (GCP) • AWS • Azure
 
 ---
 
 # Featured Projects
 
 ## LLM RAG System
+Built a Retrieval-Augmented Generation pipeline for semantic search and contextual QA.
 
-Retrieval-Augmented Generation pipeline for semantic search and contextual QA.
+**Stack:** FastAPI • LangChain • ChromaDB • HuggingFace • Docker  
 
-Stack  
-FastAPI • LangChain • ChromaDB • HuggingFace • Docker
-
-Highlights  
-• Document ingestion pipeline with chunking and embeddings  
-• Vector search with contextual retrieval  
-• REST API for real-time LLM inference
+**Highlights**
+- Designed document ingestion pipeline with chunking and embeddings  
+- Implemented vector search for semantic retrieval  
+- Built REST API for real-time LLM inference
 
 ---
 
 ## Brain Tumor Classification
+Deep learning system for MRI-based tumor classification.
 
-Deep learning model for MRI image classification.
+**Stack:** TensorFlow • CNN • OpenCV • Streamlit  
 
-Stack  
-TensorFlow • CNN • OpenCV • Streamlit
-
-Highlights  
-• 95% classification accuracy  
-• Data preprocessing and augmentation pipeline  
-• Interactive model inference dashboard
+**Highlights**
+- Achieved **95% accuracy** across tumor classes  
+- Implemented preprocessing and augmentation pipeline  
+- Built interactive model inference dashboard
 
 ---
 
 ## Genetic Risk Prediction Model
+Machine learning pipeline for SNP-based genomic risk prediction.
 
-Machine learning model for SNP-based risk prediction.
+**Stack:** Python • Scikit-learn • Pandas  
 
-Stack  
-Python • Ensemble ML • Data Analysis
-
-Highlights  
-• Feature engineering on genomic datasets  
-• Polygenic score calculation  
-• Interactive visualization dashboard
-
----
-
-# GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=venkatesh-hyper&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-hyper&layout=compact&theme=tokyonight" />
-</p>
+**Highlights**
+- Engineered genomic features from SNP datasets  
+- Implemented Polygenic Risk Score computation  
+- Built visualization dashboard for risk analysis
 
 ---
 
