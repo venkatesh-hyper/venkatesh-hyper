@@ -82,7 +82,7 @@ My background spans healthcare AI (production RAG on GCP), genomics ML (GWAS-bas
 **Architecture:** arXiv API → 384-dim embeddings → FAISS IVFFlat index → LRU cache → FastAPI → LLaMA-3 RAG summarisation
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/venkatesh-hyper/paperlens)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://huggingface.co/spaces/venky/paperlens)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://paperlens-i.streamlit.app/)
 
 ---
 
